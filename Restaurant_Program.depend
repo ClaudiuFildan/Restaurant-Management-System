@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1513313343 source:c:\users\vlad\desktop\modular_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+	"room_details.h"
+	"order.h"
+	"miscellaneous.h"
+
+1513293480 c:\users\vlad\desktop\modular_program\reservation.h
+	<stdlib.h>
+
+1513276515 c:\users\vlad\desktop\modular_program\room_details.h
+	<stdlib.h>
+
+1513310230 c:\users\vlad\desktop\modular_program\order.h
+	<stdlib.h>
+
+1513311924 c:\users\vlad\desktop\modular_program\miscellaneous.h
+	<stdlib.h>
+
+1513313233 source:c:\users\vlad\desktop\modular_program\miscellaneous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miscellaneous.h"
+
+1513311678 source:c:\users\vlad\desktop\modular_program\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+
+1513311783 source:c:\users\vlad\desktop\modular_program\room_details.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"room_details.h"
+
+1513311454 source:c:\users\vlad\desktop\modular_program\order.c
+	<stdio.h>
+	<stdlib.h>
+	"order.h"
+
+1513314078 source:c:\users\vlad\desktop\restaurant_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+	"room_details.h"
+	"order.h"
+	"miscellaneous.h"
+
+1513293480 c:\users\vlad\desktop\restaurant_program\reservation.h
+	<stdlib.h>
+
+1513276515 c:\users\vlad\desktop\restaurant_program\room_details.h
+	<stdlib.h>
+
+1513310230 c:\users\vlad\desktop\restaurant_program\order.h
+	<stdlib.h>
+
+1513311924 c:\users\vlad\desktop\restaurant_program\miscellaneous.h
+	<stdlib.h>
+
+1513313982 source:c:\users\vlad\desktop\restaurant_program\miscellaneous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miscellaneous.h"
+
+1513311454 source:c:\users\vlad\desktop\restaurant_program\order.c
+	<stdio.h>
+	<stdlib.h>
+	"order.h"
+
+1513311678 source:c:\users\vlad\desktop\restaurant_program\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+
+1513311783 source:c:\users\vlad\desktop\restaurant_program\room_details.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"room_details.h"
+
+1513330355 source:g:\restaurant_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+	"room_details.h"
+	"order.h"
+	"miscellaneous.h"
+
+1513293480 g:\restaurant_program\reservation.h
+	<stdlib.h>
+
+1513276515 g:\restaurant_program\room_details.h
+	<stdlib.h>
+
+1513310230 g:\restaurant_program\order.h
+	<stdlib.h>
+
+1513311924 g:\restaurant_program\miscellaneous.h
+	<stdlib.h>
+
+1513311454 source:g:\restaurant_program\order.c
+	<stdio.h>
+	<stdlib.h>
+	"order.h"
+
+1513311678 source:g:\restaurant_program\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+
+1513329929 source:g:\restaurant_program\room_details.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"room_details.h"
+
+1513328530 source:g:\restaurant_program\miscellaneous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miscellaneous.h"
+
+1513598356 source:c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+	"room_details.h"
+	"order.h"
+	"miscellaneous.h"
+
+1513293480 c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\reservation.h
+	<stdlib.h>
+
+1513276515 c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\room_details.h
+	<stdlib.h>
+
+1513310230 c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\order.h
+	<stdlib.h>
+
+1513311924 c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\miscellaneous.h
+	<stdlib.h>
+
+1513598518 source:c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\miscellaneous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miscellaneous.h"
+
+1513451346 source:c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\order.c
+	<stdio.h>
+	<stdlib.h>
+	"order.h"
+
+1513311678 source:c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+
+1513329929 source:c:\users\user\onedrive\facultate\proiecte\proiectc\restaurant_program\room_details.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"room_details.h"
+
+1584296332 source:c:\users\filda\desktop\proiectc\restaurant_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+	"room_details.h"
+	"order.h"
+	"miscellaneous.h"
+
+1513293482 c:\users\filda\desktop\proiectc\restaurant_program\reservation.h
+	<stdlib.h>
+
+1513276516 c:\users\filda\desktop\proiectc\restaurant_program\room_details.h
+	<stdlib.h>
+
+1513310232 c:\users\filda\desktop\proiectc\restaurant_program\order.h
+	<stdlib.h>
+
+1513311926 c:\users\filda\desktop\proiectc\restaurant_program\miscellaneous.h
+	<stdlib.h>
+
+1513598520 source:c:\users\filda\desktop\proiectc\restaurant_program\miscellaneous.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miscellaneous.h"
+
+1513451348 source:c:\users\filda\desktop\proiectc\restaurant_program\order.c
+	<stdio.h>
+	<stdlib.h>
+	"order.h"
+
+1513311680 source:c:\users\filda\desktop\proiectc\restaurant_program\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"reservation.h"
+
+1513329930 source:c:\users\filda\desktop\proiectc\restaurant_program\room_details.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"room_details.h"
+

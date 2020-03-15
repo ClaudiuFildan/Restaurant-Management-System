@@ -1,0 +1,37 @@
+
+"MANCAREA_E_BUNA"
+ - ana
+
+"Imi_place_atmosfera"
+ - paula
+
+"Great!"
+ - Diana
+
+"Good"
+ - David
+
+"Great_food!"
+ - Ana
+
+"good"
+ - Dalia
+
+"interesant"
+ - sandra
+
+"_"
+ - david
+
+"very_good"
+ - sorana
+
+"nice_place"
+ - Andrei
+
+"delicios"
+ - Darius
+
+"nice!"
+ - delia
+

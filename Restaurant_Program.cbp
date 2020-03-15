@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Modular_Program" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Modular_Program" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Modular_Program" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="friday.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.txt" />
+		<Unit filename="miscellaneous.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="miscellaneous.h" />
+		<Unit filename="monday.txt" />
+		<Unit filename="order.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="order.h" />
+		<Unit filename="rating.txt" />
+		<Unit filename="receipts.txt" />
+		<Unit filename="reservation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reservation.h" />
+		<Unit filename="reviews.txt" />
+		<Unit filename="room_details.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="room_details.h" />
+		<Unit filename="saturday.txt" />
+		<Unit filename="stockalert.txt" />
+		<Unit filename="sunday.txt" />
+		<Unit filename="thursday.txt" />
+		<Unit filename="tuesday.txt" />
+		<Unit filename="wednesday.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

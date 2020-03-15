@@ -1,0 +1,30 @@
+-----------------------RECEIPT-----------------------
+Cartofi_Prajiti	x 2	13.50 x 2	27.00 RON
+Pizza_Casei	x 2	12.50 x 2	25.00 RON
+Supa_de_pui	x 2	15.50 x 2	31.00 RON
+SUBTOTAL:	83.00 RON	VAT 19	 TOTAL 98.77
+------------------ENJOY YOUR LUNCH!------------------
+
+-----------------------RECEIPT-----------------------
+Cartofi_Prajiti	x 2	13.50 x 2	27.00 RON
+Supa_de_pui	x 2	15.50 x 2	31.00 RON
+SUBTOTAL:	58.00 RON	VAT 19	 TOTAL 69.02
+------------------ENJOY YOUR LUNCH!------------------
+
+
+
+-----------------------RECEIPT-----------------------
+Supa_de_pui	x 1	15.50 x 1	15.50 RON
+SUBTOTAL:	15.50 RON	VAT 19	 TOTAL 18.45
+------------------ENJOY YOUR LUNCH!------------------
+
+-----------------------RECEIPT-----------------------
+Pizza_Casei	x 1	12.50 x 1	12.50 RON
+SUBTOTAL:	12.50 RON	VAT 19	 TOTAL 14.88
+------------------ENJOY YOUR LUNCH!------------------
+
+-----------------------RECEIPT-----------------------
+Pizza_Casei	x 1	12.50 x 1	12.50 RON
+SUBTOTAL:	12.50 RON	VAT 19	 TOTAL 14.88
+------------------ENJOY YOUR LUNCH!------------------
+
