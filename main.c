@@ -81,6 +81,7 @@ int main()
             read_reservation(tables, M, N, dayfile[daycorect]);
         }
 
+        //read_reservation(tables, M, N, dayfile[dayc]);
         draw_room(tables, M, N);
         show_free_tables(tables, M, N, day);
         occupation_degree(tables, M, N);
@@ -106,6 +107,9 @@ int main()
     print_receipt(name, price, pol);
 
     review(c_name);
+    /* Testing for debug purposes */
+
+
 
     /* Free allocated memory */
     free_matrix(w_tt, 4);

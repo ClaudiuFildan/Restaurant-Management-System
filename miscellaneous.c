@@ -82,7 +82,7 @@ void stock_resupply_alert(char **name, int *invent)
 {
     int i = 0;
     FILE *stock_alert;
-    stock_alert = fopen("stockalert.txt", "a");
+    stock_alert = fopen("stockalert.txt", "w");
 
     for(i = 0; i < MENUSIZE; i++)
     {

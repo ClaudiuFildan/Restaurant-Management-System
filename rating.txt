@@ -1,9 +1,19 @@
 
-10 /10 -Ana
-10 /10 -Dalia
-9 /10 -sandra
-9 /10 -david
-9 /10 -sorana
-9 /10 -Andrei
-10 /10 -Darius
-10 /10 -delia
+10/10 -ana
+3/10 -Q
+1/10 -2
+1/10 -paula
+2/10 -rara
+1/10 -tata
+0/10 -u
+10/10 -uta
+1/10 -o
+1  -u
+0 /10 -u
+0 /10 -yta
+1 /10 -u
+4 /10 -r
+9 /10 -n
+3 /10 -maria
+3 /10 -a
+1 /10 -Claudiu

@@ -57,9 +57,11 @@
 		</Unit>
 		<Unit filename="room_details.h" />
 		<Unit filename="saturday.txt" />
+		<Unit filename="stock alert.txt" />
 		<Unit filename="stockalert.txt" />
 		<Unit filename="sunday.txt" />
 		<Unit filename="thursday.txt" />
+		<Unit filename="timetable.txt" />
 		<Unit filename="tuesday.txt" />
 		<Unit filename="wednesday.txt" />
 		<Extensions>

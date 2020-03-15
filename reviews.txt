@@ -2,36 +2,54 @@
 "MANCAREA_E_BUNA"
  - ana
 
-"Imi_place_atmosfera"
+"q"
+ - Q
+
+"q_u"
+ - 2
+
+"paule_e_vegana"
  - paula
 
-"Great!"
- - Diana
+"rara_e_suparata"
+ - rara
 
-"Good"
- - David
+"a"
+ - tata
 
-"Great_food!"
- - Ana
+"ae"
+ - u
 
-"good"
- - Dalia
+"a"
+ - uta
 
-"interesant"
- - sandra
+"a"
+ - o
 
-"_"
- - david
+"a"
+ - u
 
-"very_good"
- - sorana
+"a"
+ - u
 
-"nice_place"
- - Andrei
+"/"
+ - yta
 
-"delicios"
- - Darius
+"s"
+ - u
 
-"nice!"
- - delia
+"nu_e_vegana"
+ - r
+
+"i"
+ - n
+
+"ana_e_alergica"
+ - maria
+
+"a"
+ - a
+
+"scump"
+ - Claudiu
 

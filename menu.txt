@@ -9,7 +9,7 @@ Pizza_Casei
 cu_Mozzarella
 100
 12.5
-2
+5
 1
 
 Supa_de_pui
